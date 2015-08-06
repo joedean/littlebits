@@ -1,0 +1,194 @@
+<html>
+  <head>
+    <%= stylesheet "prez" %>
+    <%= stylesheet "fishing" %>
+  </head>
+
+  <body>
+    <% slide do %>
+      <h3> littleBits Color Code </h3>
+      <p class="blue">
+        Blue: Power
+      </p>
+      <p class="pink">
+        Pink: Input
+      </p>
+      <p class="green">
+        Green: Output
+      </p>
+      <p class="orange">
+        Orange: Wire
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="blue"> Power </h3>
+      <%= image "power" %>
+     <p>
+        This power module lets you use a 9 volt battery to supply electricity to your littleBits.<br/>
+        Snap in the battery and cable and flip the switch to turn it on.
+      </p>
+
+      <% notes do %>
+        <p>
+          Always start your circuit with a blue power module.
+        </p>
+      <% end %>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="green"> Bright LED </h3>
+      <%= image "bright-led" %>
+      <p>
+        The bright LED (or "Light-Emitting Diode") is a small module that puts out a big light.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3> Challenge:  Make a Falshlight! </h3>
+      <%= image "flashlight" %>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="green"> Bargraph </h3>
+      <%= image "bargraph" %>
+      <p>
+        The bargraph has five LEDs in different colors that light up to show you how much signal the module is receiving.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="green"> DC Motor </h3>
+      <%= image "dc-motor" %>
+      <p>
+        The DC (or "Direct Current") motor rotates a shaft when you send it an ON signal.
+        It even has a switch to set the direction of rotation!
+        It also includes the motorMate-- an accessory that makes it easy to attach
+        wheels, paper, cardboard, and lots of other materials to the motor.
+        Simply slide it on the "D" shape on the shaft.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="green"> Servo </h3>
+      <%= image "servo" %>
+      <p>
+        The servo Bit is a controllable motor that can swing back and forth!
+        It has two modes: in “Turn” mode, the input from other littleBits determines the position of the arm –
+        try using a dimmer to set the angle you want.
+        In “Swing” mode, the servo will move back and forth on its own – the input controls how fast it goes.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="pink"> Button </h3>
+      <%= image "button" %>
+      <p>
+        The button Bit push to turn your creation on, and release to turn it off.
+      </p>
+      <% notes do %>
+        <p>
+          The button module will make or break the signal path between two modules.
+          When the button is pressed, the output of the module is directly connected to the signal line input.
+          When not pressed the output of the module is weakly pulled low through a 1meg resistor.
+        </p>
+      <% end %>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="pink"> Dimmer </h3>
+      <%= image "dimmer" %>
+      <p>
+        The dimmer Bit lets you control your creations with a simple knob.
+        Turn it clockwise to send more signal to the following Bits.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3> Challenge:  Enhance your flashlight! </h3>
+      <%= image "flashlight" %>
+      <p>
+        Add on/off switch for your flashlight.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="pink"> Pulse </h3>
+      <%= image "pulse" %>
+      <p>
+        The pulse Bit is like an electronic heartbeat.
+        It sends out a stream of short ON signals,
+        and you can make the speed of the pulses faster or slower using the included screwdriver.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3> Challenge:  Convert flashlight to strobe light! </h3>
+      <%= image "strobe-light" %>
+      <p>
+        Add pulse to flashlight and adjust speed.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="orange"> Wire </h3>
+      <%= image "wire" %>
+      <p>
+        The wire Bit is just what it sounds like - it allows you to physically separate your Bits.
+        Try it whenever you need to break up your chain of Bits.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3 class="orange"> Branch </h3>
+      <%= image "branch" %>
+      <p>
+        The Branch Bit gives you more options for connecting your Bits:
+        it lets you connect the output of a single Bit to as many as three others,
+        oriented in different directions.
+        Use it when you want to trigger light, sound and motion at the same time.
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3> Fishing Game </h3>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/lisU5ziIu3M" frameborder="0" allowfullscreen></iframe>
+    <% end %>
+
+    <% slide do %>
+      <h3> Fishing Game - Materials </h3>
+      <%= image "fishing-game-materials", width: "560", heigh: "315" %>
+    <% end %>
+
+    <% slide do %>
+      <h3> Fishing Pole </h3>
+      <%= image "fishing-pole", width: "560", heigh: "315" %>
+      <br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Zrrw9h426vs?list=PLgH5gyvrQYS46MW_LLNmciYKOJ_a_R7Ia" frameborder="0" allowfullscreen></iframe>
+      <p>
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3> Fishing Pond </h3>
+      <%= image "fishing-pond", width: "560", heigh: "315" %>
+      <br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/WETcYl978Oc?list=PLgH5gyvrQYS46MW_LLNmciYKOJ_a_R7Ia" frameborder="0" allowfullscreen></iframe>
+      <p>
+      </p>
+    <% end %>
+
+    <% slide do %>
+      <h3> Thanks </h3>
+      <p>
+        <strong>
+          Thank @onsitedotcom on twitter!<br/><br/>
+
+          <u>My Info</u><br/>
+          Twitter: @joeddean<br/>
+          Email: joe.dean@gmail.com<br/>
+        </strong>
+      </p>
+    <% end %>
+  </body>
+</html>
