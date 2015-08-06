@@ -1,0 +1,254 @@
+---
+:prez_version: 0.0.6
+asset:css:compiled:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/stylesheets/prez.scss:
+  :last_touched:
+    6d951d75e1d56144a5a24c0094623c99: 2015-08-05 22:14:44.839607547 -07:00
+  :saved:
+    6d951d75e1d56144a5a24c0094623c99: 2015-08-04 19:02:34.934326496 -07:00
+  :key_hash: d805ec89f4d1221a467ef9cc848a76d0
+asset:css:minified:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/stylesheets/prez.scss:
+  :last_touched:
+    cc5bf7cea1422c1cf56177fea6aa7afe: 2015-08-05 22:14:44.844676563 -07:00
+  :saved:
+    cc5bf7cea1422c1cf56177fea6aa7afe: 2015-08-04 19:02:34.938376675 -07:00
+  :key_hash: a3b72fdb79170ab5aae648963d3d1a65
+asset:css:compiled:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/stylesheets/prez-controller.scss:
+  :last_touched:
+    c68e0991c6f331974a96013285aa2f3c: 2015-08-05 22:14:45.036680887 -07:00
+  :saved:
+    c68e0991c6f331974a96013285aa2f3c: 2015-08-04 19:02:36.105496695 -07:00
+  :key_hash: 44b4136ba8d2fd0352a425a533a8b37a
+asset:css:minified:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/stylesheets/prez-controller.scss:
+  :last_touched:
+    b67bfa5c011d3f0377e9bc917e978920: 2015-08-05 22:14:45.042367794 -07:00
+  :saved:
+    b67bfa5c011d3f0377e9bc917e978920: 2015-08-04 19:02:36.649810165 -07:00
+  :key_hash: 17238d71a011c105e447a402830258c8
+asset:js:compiled:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/javascripts/jquery.js:
+  :last_touched:
+    cf26f8f0ccb06be71e92d8db0fb64ab5: 2015-08-05 22:14:45.048449863 -07:00
+  :saved:
+    cf26f8f0ccb06be71e92d8db0fb64ab5: 2015-08-04 19:02:36.654110248 -07:00
+  :key_hash: 0406f08c37df98939af369903b03a6fa
+asset:js:minified:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/javascripts/jquery.js:
+  :last_touched:
+    cf26f8f0ccb06be71e92d8db0fb64ab5: 2015-08-05 22:14:45.053693412 -07:00
+  :saved:
+    cf26f8f0ccb06be71e92d8db0fb64ab5: 2015-08-04 19:02:38.227083347 -07:00
+  :key_hash: 8918e8ff6e8d807f63aacb816370b5d1
+asset:js:compiled:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/javascripts/prez-controller.js.coffee:
+  :last_touched:
+    476a061f356fa94d564c6643b4bf4ab4: 2015-08-05 22:14:45.058666975 -07:00
+  :saved:
+    476a061f356fa94d564c6643b4bf4ab4: 2015-08-04 19:02:38.362351491 -07:00
+  :key_hash: dde833d99552eb8d6b16ce64f1b8efa0
+asset:js:minified:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/javascripts/prez-controller.js.coffee:
+  :last_touched:
+    0db6a84b7f330ae2ac3ceaaa3e260b05: 2015-08-05 22:14:45.063316821 -07:00
+  :saved:
+    0db6a84b7f330ae2ac3ceaaa3e260b05: 2015-08-04 19:02:38.547337945 -07:00
+  :key_hash: 0a7349cb791d19116e03635e39d05acd
+asset:js:compiled:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/javascripts/bootstrap.js:
+  :last_touched:
+    6bfd171748f088ad503cb07c080b1f33: 2015-08-05 22:14:45.068298230 -07:00
+  :saved:
+    6bfd171748f088ad503cb07c080b1f33: 2015-08-04 19:02:38.551304072 -07:00
+  :key_hash: 5b43744f289dc1d63a334f8f6643bfa8
+asset:js:minified:/home/joe/.rvm/gems/ruby-2.2.2/gems/prez-0.0.6/vendor/javascripts/bootstrap.js:
+  :last_touched:
+    6bfd171748f088ad503cb07c080b1f33: 2015-08-05 22:14:45.073913771 -07:00
+  :saved:
+    6bfd171748f088ad503cb07c080b1f33: 2015-08-04 19:02:38.995794170 -07:00
+  :key_hash: f1102e60f72b4061af4c93ed7e7e1c98
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/power.jpg:
+  :last_touched:
+    fff276b988b4b869f9677e1ef81e66a7: 2015-08-05 22:14:44.860056896 -07:00
+  :saved:
+    fff276b988b4b869f9677e1ef81e66a7: 2015-08-05 21:35:18.194764596 -07:00
+  :key_hash: 7cd9bdb5ec053adfb2f39cbb96ed8df2
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/power.jpg:
+  :last_touched:
+    3fe07468e1419d864547276dc2e0f782: 2015-08-05 22:14:44.864871438 -07:00
+  :saved:
+    3fe07468e1419d864547276dc2e0f782: 2015-08-05 21:35:18.198147023 -07:00
+  :key_hash: 9e101fb43c42db63318f37e38e9b696d
+asset:css:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/stylesheets/fishing.css:
+  :last_touched:
+    d0baf00594734c1e2d0ba8a53076ce50: 2015-08-05 22:14:44.849944121 -07:00
+  :saved:
+    d0baf00594734c1e2d0ba8a53076ce50: 2015-08-05 22:11:04.713705450 -07:00
+  :key_hash: e185662b99612447cdf7f027572df3dc
+asset:css:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/stylesheets/fishing.css:
+  :last_touched:
+    15ce8754429a9bd55265aa6ff8b6d468: 2015-08-05 22:14:44.855174148 -07:00
+  :saved:
+    15ce8754429a9bd55265aa6ff8b6d468: 2015-08-05 22:11:04.718575912 -07:00
+  :key_hash: 20a754a3bab6d0602995cfc81a494de3
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/bright-led.jpg:
+  :last_touched:
+    4920ba8e5a98385bca9acfaa5815b8c9: 2015-08-05 22:14:44.871254127 -07:00
+  :saved:
+    4920ba8e5a98385bca9acfaa5815b8c9: 2015-08-05 21:41:01.695073431 -07:00
+  :key_hash: bfd3ae827cc50ba59e6eb0fad7d23749
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/bright-led.jpg:
+  :last_touched:
+    1d8d7bdb6230a8aeb875bc0fe8b923e7: 2015-08-05 22:14:44.875845940 -07:00
+  :saved:
+    1d8d7bdb6230a8aeb875bc0fe8b923e7: 2015-08-05 21:41:01.699531483 -07:00
+  :key_hash: 3ae6f92d8a2681bc70e7e710545ffe5e
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/flashlight.jpg:
+  :last_touched:
+    b0b17150b9761eb792050bd9a2ee1308: 2015-08-05 22:14:44.940974451 -07:00
+  :saved:
+    b0b17150b9761eb792050bd9a2ee1308: 2015-08-05 22:11:04.730817722 -07:00
+  :key_hash: bdf0acd428312338e752d70354d2bfee
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/flashlight.jpg:
+  :last_touched:
+    f0345b6ca319155060b379268253dc67: 2015-08-05 22:14:44.947249074 -07:00
+  :saved:
+    f0345b6ca319155060b379268253dc67: 2015-08-05 22:11:04.735599576 -07:00
+  :key_hash: 229ebc3f4ded1902df261920e786fc44
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/bargraph.jpg:
+  :last_touched:
+    b006aa713083ba698e2bee4cb2f2c94f: 2015-08-05 22:14:44.890062979 -07:00
+  :saved:
+    b006aa713083ba698e2bee4cb2f2c94f: 2015-08-05 22:11:04.739101835 -07:00
+  :key_hash: 1c5ea17ee359a86ce0af59ec99df6ba9
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/bargraph.jpg:
+  :last_touched:
+    ddde0971aa63c185b4577a11d03be5a1: 2015-08-05 22:14:44.894851792 -07:00
+  :saved:
+    ddde0971aa63c185b4577a11d03be5a1: 2015-08-05 22:11:04.745551417 -07:00
+  :key_hash: be43e9174906d1a665aa0368af53d590
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/dc-motor.jpg:
+  :last_touched:
+    d1ab6e76816725b5f6af1847ed9f6ccd: 2015-08-05 22:14:44.899860545 -07:00
+  :saved:
+    d1ab6e76816725b5f6af1847ed9f6ccd: 2015-08-05 22:11:04.749796148 -07:00
+  :key_hash: 5f28d6c6593b6d69a22e00e1387bf4f5
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/dc-motor.jpg:
+  :last_touched:
+    1033d3cedcf81df6413b9caeb69fb8e7: 2015-08-05 22:14:44.904612506 -07:00
+  :saved:
+    1033d3cedcf81df6413b9caeb69fb8e7: 2015-08-05 22:11:04.756398760 -07:00
+  :key_hash: 059119e53db7cc3e9748135a1d9dcd15
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/servo.jpg:
+  :last_touched:
+    9cc0aaa8c73b89c06adc2d1092374d9e: 2015-08-05 22:14:44.910738210 -07:00
+  :saved:
+    9cc0aaa8c73b89c06adc2d1092374d9e: 2015-08-05 22:11:04.760573764 -07:00
+  :key_hash: 72f16555ce755d83a865c388d0c33406
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/servo.jpg:
+  :last_touched:
+    2fd3a1f72c4333294388a5f2b3884d16: 2015-08-05 22:14:44.915378846 -07:00
+  :saved:
+    2fd3a1f72c4333294388a5f2b3884d16: 2015-08-05 22:11:04.767955277 -07:00
+  :key_hash: ddd93297d9763dfeed6c7e3fe568cb5e
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/button.jpg:
+  :last_touched:
+    644ae7926f4ddc6795082561b92008e5: 2015-08-05 22:14:44.920981795 -07:00
+  :saved:
+    644ae7926f4ddc6795082561b92008e5: 2015-08-05 22:11:04.773549392 -07:00
+  :key_hash: 43f9c31d984a74e5df6864171b12d288
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/button.jpg:
+  :last_touched:
+    6e70b881a6e09c0c3c77e2dddbb0c4a2: 2015-08-05 22:14:44.926031870 -07:00
+  :saved:
+    6e70b881a6e09c0c3c77e2dddbb0c4a2: 2015-08-05 22:11:04.781494601 -07:00
+  :key_hash: 47e6ff815d8c379361f3c9de836bbe62
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/dimmer.jpg:
+  :last_touched:
+    13199f1b55f39ca7fe3d7df2a97251b5: 2015-08-05 22:14:44.931117065 -07:00
+  :saved:
+    13199f1b55f39ca7fe3d7df2a97251b5: 2015-08-05 22:11:04.786156236 -07:00
+  :key_hash: 2a553f6f33e54fbce821ab3af395b859
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/dimmer.jpg:
+  :last_touched:
+    9dde6ed38706308edfd9e2308efa0f23: 2015-08-05 22:14:44.936120572 -07:00
+  :saved:
+    9dde6ed38706308edfd9e2308efa0f23: 2015-08-05 22:11:04.794368339 -07:00
+  :key_hash: b7b7d90f1c8fd20fa14f14a84a34ef9b
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/pulse.jpg:
+  :last_touched:
+    c05e79310d1756a4f99cb803ca5932d6: 2015-08-05 22:14:44.952467882 -07:00
+  :saved:
+    c05e79310d1756a4f99cb803ca5932d6: 2015-08-05 22:11:04.809800320 -07:00
+  :key_hash: 2e2bc5f892fa4c91cf81eb83da90b165
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/pulse.jpg:
+  :last_touched:
+    0bef9aa1c2db38cca35c5b1826156dd1: 2015-08-05 22:14:44.957558138 -07:00
+  :saved:
+    0bef9aa1c2db38cca35c5b1826156dd1: 2015-08-05 22:11:04.818824599 -07:00
+  :key_hash: a71007c864a629c106cce82479c03438
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/strobe-light.gif:
+  :last_touched:
+    a2d16186315837d1bc05dc13d08e11e0: 2015-08-05 22:14:44.962962636 -07:00
+  :saved:
+    a2d16186315837d1bc05dc13d08e11e0: 2015-08-05 22:11:04.823610165 -07:00
+  :key_hash: 8e263c7ad9b4f9eba4a8c0b24d1bd835
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/strobe-light.gif:
+  :last_touched:
+    b2685c8b37638278ec957724f464527d: 2015-08-05 22:14:44.968084348 -07:00
+  :saved:
+    b2685c8b37638278ec957724f464527d: 2015-08-05 22:11:04.833006839 -07:00
+  :key_hash: bf84768eb324b2e7b7c736001d1dbc51
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/wire.jpg:
+  :last_touched:
+    5c09438e8c65c87a9985edc29d870ac9: 2015-08-05 22:14:44.973821258 -07:00
+  :saved:
+    5c09438e8c65c87a9985edc29d870ac9: 2015-08-05 22:11:04.838319725 -07:00
+  :key_hash: 7965ff10d7cb4c40aa19851ca2d896ca
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/wire.jpg:
+  :last_touched:
+    8c291fc663c6f874d4188ed99d785a37: 2015-08-05 22:14:44.979026448 -07:00
+  :saved:
+    8c291fc663c6f874d4188ed99d785a37: 2015-08-05 22:11:04.850130430 -07:00
+  :key_hash: d9896226ff155b1d0be838dad04e519c
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/branch.jpg:
+  :last_touched:
+    42995375343639c00ae03af7c174694b: 2015-08-05 22:14:44.984331068 -07:00
+  :saved:
+    42995375343639c00ae03af7c174694b: 2015-08-05 22:11:04.855796768 -07:00
+  :key_hash: 48d6c4d9e468f3c3d2753882fe5ebebe
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/branch.jpg:
+  :last_touched:
+    2a615b297a5771b1738ef7b1c8ead4c3: 2015-08-05 22:14:44.990870487 -07:00
+  :saved:
+    2a615b297a5771b1738ef7b1c8ead4c3: 2015-08-05 22:11:04.866159939 -07:00
+  :key_hash: 1264bf7be82397980e722a22d5c18cb7
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/fishing-game-materials.jpg:
+  :last_touched:
+    1d95919a620089f50dadd469c568e76b: 2015-08-05 22:14:44.996931262 -07:00
+  :saved:
+    1d95919a620089f50dadd469c568e76b: 2015-08-05 22:11:04.876369819 -07:00
+  :key_hash: 5bf7bb342820c793edfe1ed1b5d35d9c
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/fishing-game-materials.jpg:
+  :last_touched:
+    b5a6d012c620efbceed91346e430d02e: 2015-08-05 22:14:45.003476177 -07:00
+  :saved:
+    b5a6d012c620efbceed91346e430d02e: 2015-08-05 22:11:04.890216202 -07:00
+  :key_hash: 044b236455e4163c28b755e0fb58c173
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/fishing-pole.jpg:
+  :last_touched:
+    d7b9447af1843ee8c017e92c05a2f029: 2015-08-05 22:14:45.009814403 -07:00
+  :saved:
+    d7b9447af1843ee8c017e92c05a2f029: 2015-08-05 22:13:28.822190551 -07:00
+  :key_hash: 853d90ea269bdaa1b200cf824e95894b
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/fishing-pole.jpg:
+  :last_touched:
+    32f685953c709faab44161d60b8df2e2: 2015-08-05 22:14:45.015642582 -07:00
+  :saved:
+    32f685953c709faab44161d60b8df2e2: 2015-08-05 22:13:28.833604374 -07:00
+  :key_hash: 62646a34bb2830513852ba3db5a6b602
+asset:image:compiled:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/fishing-pond.jpg:
+  :last_touched:
+    f0e738df7b5ee5c58c08e56c00a4dba4: 2015-08-05 22:14:45.022453781 -07:00
+  :saved:
+    f0e738df7b5ee5c58c08e56c00a4dba4: 2015-08-05 22:13:28.843305697 -07:00
+  :key_hash: e8d1d41c1d6b2b6402eb936f916d93b5
+asset:image:minified:/home/joe/ps/coderdojo/littlebits/fishing_game_prez/images/fishing-pond.jpg:
+  :last_touched:
+    e707a36e0f083d6f0370a424a577da06: 2015-08-05 22:14:45.028817131 -07:00
+  :saved:
+    e707a36e0f083d6f0370a424a577da06: 2015-08-05 22:13:28.856145449 -07:00
+  :key_hash: f140d66602cd39f045f05ad5983a9eca

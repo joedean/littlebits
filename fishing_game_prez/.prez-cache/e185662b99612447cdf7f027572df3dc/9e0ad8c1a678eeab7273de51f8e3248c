@@ -1,0 +1,22 @@
+table#colors {
+  width: 50%;
+  background-color: #f1f1c1;
+  font: 24px;
+}
+
+table#colors tr:nth-child(even) {
+  background-color: #eee;
+}
+
+table#colors tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+table#colors th {
+  color: white;
+  background-color: grey;
+}
+
+tr#blue {
+  background-color: blue;
+}
