@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=1024, user-scalable=no">
+
+  <title>Analog Pong Controller</title>
+
+  <!-- Required stylesheet -->
+  <link rel="stylesheet" media="screen" href="core/deck.core.css">
+
+  <!-- Extension CSS files go here. Remove or add as needed. -->
+  <link rel="stylesheet" media="screen" href="extensions/goto/deck.goto.css">
+  <link rel="stylesheet" media="screen" href="extensions/menu/deck.menu.css">
+  <link rel="stylesheet" media="screen" href="extensions/navigation/deck.navigation.css">
+  <link rel="stylesheet" media="screen" href="extensions/status/deck.status.css">
+  <link rel="stylesheet" media="screen" href="extensions/scale/deck.scale.css">
+
+  <!-- Style theme. More available in /themes/style/ or create your own. -->
+  <link rel="stylesheet" media="screen" href="themes/style/web-2.0.css">
+
+  <!-- Transition theme. More available in /themes/transition/ or create your own. -->
+  <link rel="stylesheet" media="screen" href="themes/transition/horizontal-slide.css">
+
+  <!-- Basic black and white print styles -->
+  <link rel="stylesheet" media="print" href="core/print.css">
+
+  <!-- Required Modernizr file -->
+  <script src="modernizr.custom.js"></script>
+</head>
+<body>
+  <div class="deck-container">
+
+    <!-- Begin slides. Just make elements with a class of slide. -->
+
+    <section id="pong-controler" class="slide">
+      <center><h2> Develop a Pong Controller </h2></center>
+      <img src="images/analog-pong/pong-controller.png"/>
+    </section>
+
+    <section id="powerBit" class="slide">
+      <center><h2>Power</h2></center>
+      <img src="images/analog-pong/power.jpg"/>
+      <center>
+        <p>
+          This power module lets you use a 9 volt battery to supply electricity to your littleBits.</br>
+          Snap in the battery and cable and flip the switch to turn it on.
+        </p>
+      </center>
+    </section>
+
+    <section id="fork" class="slide">
+      <center><h2>Fork</h2></center>
+      <img src="images/analog-pong/fork.jpg"/>
+      <center>
+        <p>
+          The fork Bit lets you connect the output of a single Bit to as many as three others.
+        </p>
+      </center>
+    </section>
+
+    <section id="dimmers" class="slide">
+      <center><h2>Dimmers</h2></center>
+      <img src="images/analog-pong/dimmer.jpg"/>
+      <center>
+        <p>
+          The dimmer Bits lets you control the right and left pong paddles with a simple knob. </br>
+          Turn it clockwise to send more signal to the following Bits.
+        </p>
+      </center>
+    </section>
+
+    <section id="arduino" class="slide">
+      <center><h2>Arduino Bit</h2></center>
+      <img src="images/analog-pong/arduinobit.jpg"/>
+    </section>
+
+    <section id="connect" class="slide">
+      <center><h2>Connect to Computer </h2></center>
+      <img src="images/analog-pong/connect-arduino.png"/>
+    </section>
+
+    <section id="setup-game" class="slide">
+      <center><h2>Setup Game</h2></center>
+      <img src="images/analog-pong/processing-ide.png"/>
+      <center>
+        <p>
+          Follow these setup <a href="https://docs.google.com/document/d/1KtLkmcq3731-f1j5UfAn0Myov6-7x58fUTyQKasTCSM/edit?usp=sharing">instructions</a>.
+        </p>
+      </center>
+    </section>
+
+    <section id="play-game" class="slide">
+      <center><h2>Play Game</h2></center>
+      <img src="images/analog-pong/playing-pong.jpg"/>
+    </section>
+
+    <section id="Customization Challenges" class="slide">
+      <center><h2>Programming Challenges</h2></center>
+      <center>
+        <p>
+          Make all changes in processing developmnet environment.
+        </p>
+      </center>
+      <ul>
+        <li> Change speed of ball </li>
+        <li> Increase speed of ball faster as game progresses </li>
+        <li> Change victory for number of wins from 2 to 5 </li>
+        <li> Change color of ball </li>
+        <li> Customize game in other ways by playing with the code </li>
+      </ul>
+    </section>
+
+    <section id="thanks" class="slide">
+      <h2> Thanks </h2>
+      <h3> Thank @onsitedotcom for the littleBits and space </h3>
+      <h3> My Contact Info </h3>
+      <ul>
+        <li> Email: joe.dean@gmail.com </li>
+        <li> Twitter: @joeddean </li>
+      </ul>
+
+
+    </section>
+
+    <!-- End slides. -->
+
+    <!-- Begin extension snippets. Add or remve as needed. -->
+
+    <!-- deck.navigation snippet -->
+    <div aria-role="navigation">
+      <a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+      <a href="#" class="deck-next-link" title="Next">&#8594;</a>
+    </div>
+
+    <!-- deck.status snippet -->
+    <p class="deck-status" aria-role="status">
+      <span class="deck-status-current"></span>
+      /
+      <span class="deck-status-total"></span>
+    </p>
+
+    <!-- deck.goto snippet -->
+    <form action="." method="get" class="goto-form">
+      <label for="goto-slide">Go to slide:</label>
+      <input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+      <datalist id="goto-datalist"></datalist>
+      <input type="submit" value="Go">
+    </form>
+
+    <!-- End extension snippets. -->
+  </div>
+
+<!-- Required JS files. -->
+<script src="jquery.min.js"></script>
+<script src="core/deck.core.js"></script>
+
+<!-- Extension JS files. Add or remove as needed. -->
+<script src="extensions/menu/deck.menu.js"></script>
+<script src="extensions/goto/deck.goto.js"></script>
+<script src="extensions/status/deck.status.js"></script>
+<script src="extensions/navigation/deck.navigation.js"></script>
+<script src="extensions/scale/deck.scale.js"></script>
+
+<!-- Initialize the deck. You can put this in an external file if desired. -->
+<script>
+  $(function() {
+    $.deck('.slide');
+    $.deck('showGoTo');
+  });
+</script>
+</body>
+</html>
